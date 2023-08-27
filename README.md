@@ -166,6 +166,7 @@
 ## <b>✨Quote</b>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards&quot;<br> ~Gene Spafford</p>  
 &mdash; Yash (@YashxPredator) <a href="https://twitter.com/YashXPredator/status/1695446333774287127?s=20">August 26, 2023</a></blockquote>
+<img src="https://tryhackme-badges.s3.amazonaws.com/predatorHunterX.png" alt="TryHackMe">
 
 </div>
 <br>
