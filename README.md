@@ -84,7 +84,6 @@
     ![torbrowser](https://img.shields.io/badge/torbrowser-7D4698?style=for-the-badge&logo=torbrowser&logoColor=white) 
     ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) 
     ![kalilinux](https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) 
-    ![torbrowser](https://img.shields.io/badge/torbrowser-7D4698?style=for-the-badge&logo=torbrowser&logoColor=white) 
 
 <br>
 
