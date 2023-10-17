@@ -16,7 +16,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=false&width=1000&lines=Hi+there+👋,+I+am+Yash;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
-## <picture><img src = "https://www.icegif.com/wp-content/uploads/2022/12/icegif-498.gif" width = 40px></picture> **About me**
+<picture><img src = "https://www.icegif.com/wp-content/uploads/2022/12/icegif-498.gif" width = 40px></picture> **About me**
 
 <picture> <img align="right" src="https://media.tenor.com/58XUFFpP-a0AAAAC/cyber.gif" width = 400px></picture>
 
@@ -39,7 +39,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
 <p align="center">
@@ -118,7 +118,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -141,7 +141,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://media.tenor.com/yoAqeriAJnIAAAAi/bugcat-bugcatsticker.gif" width ="80">
+<b> Let's Connect..!</b><img src="https://media.tenor.com/yoAqeriAJnIAAAAi/bugcat-bugcatsticker.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -162,7 +162,7 @@
 
 <div align='center'>
 
-## <b>✨Quote</b>
+<b>✨Quote</b>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards&quot;<br> ~Gene Spafford</p>  
 &mdash; Yash (@YashxPredator) <a href="https://twitter.com/YashXPredator/status/1695446333774287127?s=20">August 26, 2023</a></blockquote>
 <img src="https://tryhackme-badges.s3.amazonaws.com/predatorHunterX.png" alt="TryHackMe">
